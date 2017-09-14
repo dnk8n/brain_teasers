@@ -1,0 +1,5 @@
+Solve for the values of A, B, C, D and E where each is a unique integer between 0 to 9.
+ABCDE * 4 == EDCBA.
+
+Note for example: XYZ * 2 == 246 where X = 1, Y = 2, Z = 3 (i.e. 123 * 2 == 246)
+
